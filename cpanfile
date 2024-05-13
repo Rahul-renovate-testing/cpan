@@ -1,1 +1,1 @@
-require 'perl',5.008001
+requires 'perl', 5.008001;
